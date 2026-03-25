@@ -21,7 +21,7 @@ A Go/Ebitengine clone of the *Tutorial* level from the game Cuphead. (Abandoned 
 
 ## Build
 
-Enter the `go run .` command in the project directory to build and play.a
+Enter the `go run .` command in the project directory to build and play
 
 
 
