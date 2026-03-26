@@ -2,8 +2,7 @@
 
 A Go/Ebitengine clone of the *Tutorial* level from the game Cuphead. (Abandoned project: Save/load system failed, only the *Tutorial* level is playable)
 
-<video src="https://github.com/user-attachments/assets/eaade82f-c5b7-4e1a-acea-9420fdd0f32a" autoplay loop muted playsinline width="100%">
-</video>
+https://github.com/user-attachments/assets/eaade82f-c5b7-4e1a-acea-9420fdd0f32a
 
 ## Controls
 
